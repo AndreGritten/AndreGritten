@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9B30FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+André+Gritten+👋;Software+Engineer;Database+%26+Data+Engineering;Building+solid+architectures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=50&color=9B30FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+André+Gritten+👋;Software+Engineer+Intern;Databases+%26+Back-end;Always+building+something)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AndreGritten&color=9b30ff&style=flat-square&label=Profile+Views" />
 
@@ -9,19 +9,26 @@
 
 ---
 
-##  About Me
+## About Me
 
-```python
-andre = {
-    "role":       "Software Engineer Intern @ [Company]",
-    "focus":      ["Databases", "Data Engineering", "Project Architecture"],
-    "currently":  "Shaping how data flows, not just how code runs.",
-    "goal":       "Transition into Data Engineering & Cloud Architecture",
-    "mentor":     "Marcos",
-}
-```
-
-> *"Good architecture is invisible. Bad architecture is all you see."*
+<table>
+  <tr>
+    <td><b>🏢 Role</b></td>
+    <td>Software Engineer Intern CAUPR</td>
+  </tr>
+  <tr>
+    <td><b>🔧 Focus</b></td>
+    <td>Databases, Back-end, Project Architecture</td>
+  </tr>
+  <tr>
+    <td><b>📚 Learning</b></td>
+    <td>Laravel, Azure (AZ-900), Data Engineering</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Goal</b></td>
+    <td>Grow into Cloud & Data Engineering</td>
+  </tr>
+</table>
 
 ---
 
@@ -50,24 +57,15 @@ andre = {
 ![Azure](https://img.shields.io/badge/AZ--900-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=9B30FF)
 ![Databricks](https://img.shields.io/badge/Databricks-0D0D0D?style=for-the-badge&logo=databricks&logoColor=9B30FF)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=9B30FF)
-
 ```
-🎯 Goal: AZ-900 Certification
-📊 Exploring: Data Engineering with Python + Databricks
-☁️  Cloud path: Microsoft Azure ecosystem
+🎯 Goal: AZ-900 Certification  
+☁️  Cloud path: Microsoft Azure ecosystem  
+📊 Exploring: Data Engineering concepts  
 ```
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreGritten&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=9b30ff&title_color=9b30ff&icon_color=9b30ff&text_color=ffffff&hide_border=false" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGritten&layout=compact&theme=dark&bg_color=0d0d0d&border_color=9b30ff&title_color=9b30ff&text_color=ffffff" />
-
-</div>
 
 <div align="center">
 
@@ -79,21 +77,11 @@ andre = {
 
 ## 📬 Let's Connect
 
-<!-- Add your links below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=9B30FF)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=9B30FF)](mailto:YOUR_EMAIL)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=80&section=footer&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=80&section=footer" />
 </div>
-
-
-
-
-
-
-
-
-
