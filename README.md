@@ -29,6 +29,9 @@
     <td>Grow into Cloud & Data Engineering</td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndreGritten/AndreGritten/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
 
 ---
 
