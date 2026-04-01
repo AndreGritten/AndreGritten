@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=50&color=9B30FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+André+Gritten+👋;Software+Engineer+Intern;Databases+%26+Back-end;Always+building+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=10&color=9B30FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+André+Gritten;Software+Engineer+Intern;Databases+%26+Back-end)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AndreGritten&color=9b30ff&style=flat-square&label=Profile+Views" />
 
