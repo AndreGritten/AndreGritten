@@ -74,11 +74,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AndreGritten&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndreGritten&theme=dark&background=0D0D0D&border=9B30FF&ring=9B30FF&fire=CC66FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B30FF&sideLabels=9B30FF&dates=AAAAAA)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreGritten&bg_color=0d1117&color=7C4DFF&line=3D2670&point=48BFE3&area=true&hide_border=true"/>
+</p>
 
 ---
 
