@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndreGritten&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
+  <img src="https://streak-stats.demolab.com?user=VitorMCordeiro&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
 </p>
 
 <p align="center">
